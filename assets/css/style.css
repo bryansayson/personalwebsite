@@ -377,10 +377,14 @@ input {
 }
 
 .introText {
-	margin-top: 125px;
+	margin-top: 70px;
 }
 
 .thumb {
 	height: 650px;
 	width: 450px;
+}
+
+.viewResume {
+	margin-top: 20px;
 }
